@@ -65,3 +65,10 @@ Our project aims to evaluate the pre-trained MTCNN model against a fine-tuned ve
 ## Conclusion
 
 The pre-trained MTCNN model excels in speed, making it ideal for time-sensitive applications, while the fine-tuned model offers slightly better performance for domain-specific datasets. The choice between these approaches depends on the trade-offs between speed and accuracy required by your use case.
+
+## Notes
+
+Please note that this homework assignmenta is a part of our academic coursework at the University of Bucharest. Feel free to explore the code, documentation, and solutions to gain insights into the exciting world of robotics and computer science.
+
+## Disclaimer
+This repository is for educational purposes, and you are encouraged to learn from it. However, please avoid direct copying of code for your own coursework.
