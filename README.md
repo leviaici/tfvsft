@@ -68,7 +68,7 @@ The pre-trained MTCNN model excels in speed, making it ideal for time-sensitive 
 
 ## Notes
 
-Please note that this homework assignmenta is a part of our academic coursework at the University of Bucharest. Feel free to explore the code, documentation, and solutions to gain insights into the exciting world of robotics and computer science.
+Please note that this homework assignment is a part of our academic coursework at the University of Bucharest. Feel free to explore the code, documentation, and solutions to gain insights into the exciting world of robotics and computer science.
 
 ## Disclaimer
 This repository is for educational purposes, and you are encouraged to learn from it. However, please avoid direct copying of code for your own coursework.
